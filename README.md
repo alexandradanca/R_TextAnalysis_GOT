@@ -1,5 +1,5 @@
 <h1 align="center">
-     💰 Game of Thrones Script All Seasons
+     :clapper: Game of Thrones Script All Seasons
       <br />
       <hr />
      📈 Text Analysis using R
